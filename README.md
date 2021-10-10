@@ -2,7 +2,7 @@
 ### Author: Akshat Phumbhra
 Deep Learning Project on Image Classification using the CIFAR-10 dataset
 
-This dataset consists of 60,000 images divided into 10 target classes, with each category containing 6000 images of shape 32*32. This dataset contains images of low resolution (32*32), which allows researchers to try new algorithms. The 10 different classes of this dataset are:
+This dataset consists of 60,000 images divided into 10 target classes, with each category containing 6000 images of shape 32\*32. This dataset contains images of low resolution (32\*32), which allows researchers to try new algorithms. The 10 different classes of this dataset are:
 
 - Airplane
 - Car
